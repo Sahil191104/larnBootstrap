@@ -10,6 +10,38 @@
 }
 
 .my1 {
-    background-color: burlywood;
     height: 100px;
+}
+
+.my8 {
+    height: 1000px;
+}
+
+.my9 {
+    margin-bottom: 25px;
+}
+
+/* .row .my9 img {
+    background-position: center center;
+    background-size: cover;
+    border-radius: 20px;
+    height: au;
+} */
+
+.my7 {
+    padding-top: 30px;
+    height: 300px;
+    font-size: 23px;
+}
+
+.my3 {
+    height: 550px;
+}
+
+.my4 {
+    height: 450px;
+}
+
+.my5 {
+    height: 1100px;
 }
